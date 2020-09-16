@@ -3,7 +3,7 @@ header li{
 
 }
 a:link, a:visited{
-  box-sizing: border-box;
+  box-sizing: border-box; 
   text-decoration:none;/*to remove underline*/
   color:black;/*text color*/
   background-color:aquamarine/*lightpink*/;
